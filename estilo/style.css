@@ -169,6 +169,14 @@ main img.pequena {
     margin: auto;
 }
 
+main h1 {
+    font-family: var(--fonte-android)
+}
+
+main h2 {
+    font-family: var(--fonte-android);
+}
+
 aside {
     background-color: var(--cor1);
     padding: 10px;
